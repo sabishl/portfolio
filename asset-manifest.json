@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sabishl/portfolio.git/static/css/main.d9d4c707.css",
+    "main.js": "/sabishl/portfolio.git/static/js/main.664d074d.js",
+    "static/media/ab6.png": "/sabishl/portfolio.git/static/media/ab6.1a8ba02f73e3f7a87348.png",
+    "static/media/sabish.jpg": "/sabishl/portfolio.git/static/media/sabish.bc2a8fc4c66cd6aed10a.jpg",
+    "static/media/bus.jpeg": "/sabishl/portfolio.git/static/media/bus.f0d297f28058d3a09762.jpeg",
+    "static/media/res.jpg": "/sabishl/portfolio.git/static/media/res.703136c429476756cfc6.jpg",
+    "static/media/college.png": "/sabishl/portfolio.git/static/media/college.301461a81b248b1188df.png",
+    "static/media/calc.webp": "/sabishl/portfolio.git/static/media/calc.e1cccfd1cf3bdf65a587.webp",
+    "static/media/bpo.webp": "/sabishl/portfolio.git/static/media/bpo.f44a715f2d5448bbbbce.webp",
+    "static/media/blood.jpg": "/sabishl/portfolio.git/static/media/blood.cb380cd87eb5b70b8f7b.jpg",
+    "index.html": "/sabishl/portfolio.git/index.html",
+    "main.d9d4c707.css.map": "/sabishl/portfolio.git/static/css/main.d9d4c707.css.map",
+    "main.664d074d.js.map": "/sabishl/portfolio.git/static/js/main.664d074d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9d4c707.css",
+    "static/js/main.664d074d.js"
+  ]
+}
