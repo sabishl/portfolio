@@ -8,7 +8,7 @@ export default function Hero(){
 
     return <section className=' flex flex-col md:flex-row px-5 py-32 bg-secondary justify-center'>
        <div className='md: w-1/2 flex flex-col'>
-       <h1 className=' text-5xl font-hero-font'>Hi,<br/> I am Sabish L
+       <h1 className=' text-4xl font-hero-font'>Hi,<br/> I am Sabish L
         <p className='text-red-600 text-2xl'>{config.subtittle}</p>
         </h1>
         <div className='flex py-5'>
