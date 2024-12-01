@@ -9,7 +9,7 @@ export default function About() {
   };
 
   return (
-    <section id='about' className='flex flex-col md:flex-row bg-third px-5'>
+    <section id='about' className='flex flex-col md:flex-row bg-third px-5 py-5'>
       <div className='py-4 md:flex w-1/2'>
         <img src={bg} alt="Background" />
       </div>
