@@ -2,7 +2,7 @@ import res from '../assets/res.jpg';
 
 export default function Resume() {
   const config = {
-    link: 'https://drive.google.com/file/d/1QF8iqNUWtO0BorvtRDFkXLnGZtvPtSUh/view?usp=drive_link',
+    link: 'https://drive.google.com/file/d/1vDTttMosMinGTh3neVqL75ZnZwqEe-C9/view?usp=drive_link',
   };
 
   return (
