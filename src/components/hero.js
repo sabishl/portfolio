@@ -17,6 +17,6 @@ export default function Hero(){
         </div>
        </div>
       
-       <img className='md:w-1/3 h-1/5' src={SabishImg}/>
+       <img className='md:w-1/3 h-1/5 rounded-lg' src={SabishImg}/>
     </section>
 }
